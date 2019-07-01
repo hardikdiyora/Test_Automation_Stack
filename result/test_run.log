@@ -1,0 +1,12 @@
+22 Sep 2018 15:05:08 [INFO ] org.springframework.context.support.AbstractApplicationContext prepareRefresh:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@63e2203c: startup date [Sat Sep 22 15:05:08 IST 2018]; root of context hierarchy
+22 Sep 2018 15:05:08 [INFO ] task.tests.ui.UITestBase openBrowser:22 - Opening the Chrome Browser.
+22 Sep 2018 15:05:10 [INFO ] task.tests.ui.UITestBase openWebApp:48 - Opening the LEVERTON Web Application Login Page.
+22 Sep 2018 15:05:14 [INFO ] task.tests.ui.LoginTest setUp:13 - Navigate to Login Page
+22 Sep 2018 15:05:14 [INFO ] task.tests.ui.LoginTest verifyLoginFailureWithWrongCredentials:19 - Verify user is not able to login successfully with wrong credentials.
+22 Sep 2018 15:05:14 [INFO ] pages.LoginPage loginToAccount:30 - Enter the Username.
+22 Sep 2018 15:05:14 [INFO ] pages.LoginPage loginToAccount:32 - Enter the Password.
+22 Sep 2018 15:05:14 [INFO ] pages.LoginPage loginToAccount:34 - Click on Log In button.
+22 Sep 2018 15:05:15 [INFO ] pages.LoginPage loginToAccount:37 - Login failure, please navigate to Login Page again
+22 Sep 2018 15:05:15 [INFO ] task.tests.ui.UITestBase closeBrowser:42 - Quiting the Browser.
+22 Sep 2018 15:05:15 [INFO ] org.springframework.context.support.AbstractApplicationContext prepareRefresh:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@9cd25ff: startup date [Sat Sep 22 15:05:15 IST 2018]; root of context hierarchy
+22 Sep 2018 15:05:15 [INFO ] task.tests.api.GetRequestsTest verfityCountryPresent:22 - Verify a certain country is present in response result
